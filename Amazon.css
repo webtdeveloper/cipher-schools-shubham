@@ -507,3 +507,7 @@ h2.truncate-2line {
     display: none !important
   }
 }
+
+#icp-touch-link-language {
+  display: none;
+}
